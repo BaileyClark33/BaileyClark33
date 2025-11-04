@@ -1,7 +1,7 @@
 ## Hi, I'm Bailey Clark
 
 - Computer Engineer at Union College
-- LinkedIn: https://www.linkedin.com/in/bailey-clark-15884a2b1
+- LinkedIn: [Bailey Clark](https://www.linkedin.com/in/bailey-clark-15884a2b1)
 - Email: clarkb@union.edu
 <!--
 **BaileyClark33/BaileyClark33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
